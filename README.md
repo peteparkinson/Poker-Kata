@@ -66,10 +66,10 @@ Each row of input is a game with two players. The first five cards belong to the
 player named "Black" and the second five cards belong to the player named "White".
 Sample output:
 
-White wins. - with high card: Ace
-White wins. - with flash
-Black wins. - with high card: 9
-Tie.
+White wins. - with high card: Ace <br>
+White wins. - with flash <br>
+Black wins. - with high card: 9 <br>
+Tie. <br>
 
  Comments from those who are working on this Kata
 
