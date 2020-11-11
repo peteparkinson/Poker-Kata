@@ -1,11 +1,11 @@
 # Poker-Kata
 
-## Poker rules description
+### Poker rules description
 
 Your job is to compare several pairs of poker hands and to indicate which, 
 if either, has a higher rank.
 
-## Poker rules description
+### Poker rules description
 
 A poker deck contains 52 cards - each card has a suit which is one of clubs, 
 diamonds, hearts, or spades (denoted C, D, H, and S in the input data). 
