@@ -7,8 +7,8 @@ Black: 2H 3D 5S 9C KD  White: 2D 3H 5C 9S KH
 Tested Inputs:
 Black: 2D 3H 4C 4D AH  White: 2H 5D 4S 9D AH		  invalid
 Black: 2D 3H 4C 4D KH  White: 2H 5D 4S 9D 9D		  invalid
-Black: 2D 3H 4C 4D 	  White: 2H 5D 4S 9C 9D		  invalid
-Black: 2D 3H 4C 4D KH  White: 2H 5D 4S 9C 9D TC	  invalid
+Black: 2D 3H 4C 4D  White: 2H 5D 4S 9C 9D		    invalid
+Black: 2D 3H 4C 4D KH  White: 2H 5D 4S 9C 9D TC	    invalid
 Black: 2H 3D 5S 9C KD  White: 2D 3H 5C 9S KH		  tie
 Black: 2H 3D 5S 9C KD  White: 2C 3H 4S 8C AH		  high card
 Black: 2H 3D 5S 9C KD  White: 2C 4H 4S 8C AH		  pair 
