@@ -47,7 +47,6 @@ public class Player {
 			this.rank = 0;
 			this.highCard = this.cards[4].getValue();
 		}
-		System.out.println("rank " + this.rank + "\n");
 	}
 
 	
