@@ -25,8 +25,6 @@ public class Card {
 		} else  {
 			this.value = Integer.parseInt(String.valueOf(name.charAt(0)));
 		}
-		System.out.println("created new card: " + VALUES[this.value - 1]
-				+ " of " + this.suit);
 	}
 
 	public char getSuit() {
